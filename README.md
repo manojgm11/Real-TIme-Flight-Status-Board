@@ -43,7 +43,10 @@ Running Test -
 1) Run all the test
     - npm test
 
+Deployment - I have deploy Real-Time-Flight-Status-Board on vercel tool.
+1) You can click on this link (https://real-time-flight-status-board.vercel.app/)
 
+Thank You...
 
 
 
