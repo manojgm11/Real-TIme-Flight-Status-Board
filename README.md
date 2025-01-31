@@ -13,13 +13,13 @@ Features -
     - Status
     Data refreshes at regular intervals.
 
-2) Detail View
+2) Detail View - 
     Display details of the selected flight.
 
-3) Error Handling
+3) Error Handling - 
     Error messages for network issues or missing data.
 
-4) Unit Testing
+4) Unit Testing - 
     Test cases are written using Jest, React Testing Library, and Vitest.
 
 Tools -
